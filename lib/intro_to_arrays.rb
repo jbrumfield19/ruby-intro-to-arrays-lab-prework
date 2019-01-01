@@ -4,3 +4,5 @@ end
 def array_with_two_elements
  array2 = ['uno', 'deux']
 end
+def first_element(array)
+  array[0]
